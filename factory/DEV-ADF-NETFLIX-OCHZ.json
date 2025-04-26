@@ -1,0 +1,9 @@
+{
+	"name": "DEV-ADF-NETFLIX-OCHZ",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "888132b7-ed3d-46ef-87e2-16cb614bfa0b",
+		"tenantId": "361c71e5-e564-4d15-b1a6-284d5d35bb02"
+	}
+}
